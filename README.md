@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Natural Language Processesing
 - 💞️ Currently i'm looking for a job in Data Science
-- 📫 How to reach me via muhamadsyeed@gmail.com
+- 📫 You can reach me via muhamadsyeed@gmail.com
 
 <!---
 Mohdsyeed/Mohdsyeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
